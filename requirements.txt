@@ -1,2 +1,2 @@
-streamlit==1.26.0
-pint==0.21
+streamlit==1.29.0
+pint==0.22
